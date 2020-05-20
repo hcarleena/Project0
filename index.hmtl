@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<style>
+ <link rel="stylesheet" href="path/to/stylesheet.css"></>
+  </style>
+    <head>
+      <img src="acnh.png" height=10% width=10% class="screen-only">
+        <title>Animal Crossing: New Horizons</title>
+        <h1> Information to Know Before Starting the Game</h1>
+    </head>
+    <body>
+<p>As the world is stuck indoors, Nintendo has released Animal Crossing: New Horizons at the perfect time.
+  Now beginners and franchise fans can join together to play in this beautiful and tranquil world. </p>
+<p>The social simulator is a very relaxed game, with no timed quests or rushed elements.
+However, there are things to do, features to unlock and some secrets to discover.
+If you've never played Animal Crossing title before then you may find yourself a little overwhelmed in places.
+There are also some new features that could even confuse franchise fans.
+I pulled together some handy must-know tips for beginners who want to play the game as well as possible.</p>
+        <table>
+          <tr>
+            <th><button>Most Vaulable Fish </button></th>
+          </tr>
+          <tr>
+            <td>Name</td><td>Where</td><td>Bell Worth</td>
+          </tr>
+          <tr>
+            <td>Coleacanth</td><td>Sea</td><td>15,000</td>
+          </tr>
+          <tr>
+            <td>Barreleye</td><td>Sea</td><td>15,000</td>
+          </tr>
+          <tr>
+            <td>Gold Trout</td><td>Clifftop</td><td>15,000</td>
+          </tr>
+          <tr>
+            <td>Blue Marlin</td><td>Pier</td><td>10,000</td>
+          </tr>
+        </table>
+      <table>
+        <tr>
+          <th><button> Most Vaulable Bugs</button></th>
+        </tr>
+        <tr>
+         <td>Name</td><td>Where</td><td>Bell Worth</td>
+        </tr>
+        <tr>
+          <td>Tarantula</td><td>Ground</td><td>8,000</td>
+        </tr>
+        <tr>
+          <td>Atlas Moth</td><td>Trees</td><td>3,000</td>
+        </tr>
+        <tr>
+          <td>Agrias Butterfly</td><td>Flying</td><td>3,000</td>
+        </tr>
+        <tr>
+          <td>Wasp</td><td>Trees</td><td>2,500</td>
+        </tr>
+
+      <h2> Special Animals That Visit the Village </h2>
+      <ul>
+       <li>Gulliver</li>
+       <li>Redd</li>
+       <li>K.K. Slider</li>
+       <li>Daisy Mae</li>
+       <li>C.J.</li>
+       <li>Celeste</li>
+       <li>Flick</li>
+       <li>Kicks</li>
+       <li>Labelle</li>
+       <li>Leif</li>
+       <li>Wisp</li>
+     </ul>
+
+
+
+    </body>
+</html>
